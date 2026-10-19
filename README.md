@@ -19,3 +19,21 @@ Diagrama de Conexión
 
 Peso estimado:
 120g total
+
+Prueba 1 de código realizada de 2 sensores(con mis materiales actuales):
+Código - Prueba de Sensores
+```cpp
+int s1, s2;
+void setup(){
+  pinMode(8, OUTPUT); 
+  pinMode(9, OUTPUT); 
+  Serial.begin(9600);
+}
+void loop(){
+  s1 = analogRead(A0);
+  s2 = analogRead(A1);
+  Serial.print(s1); Serial.print(" - "); Serial.println(s2);
+  digitalWrite(8, s1 < 500);
+  digitalWrite(9, s2 < 500);
+  delay(100);
+}
