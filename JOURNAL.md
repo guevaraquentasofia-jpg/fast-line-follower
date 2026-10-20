@@ -12,3 +12,6 @@
  19 de octubre de 2026 - Diagrama y Documentación
 - Creé diagrama de conexión completo: Arduino UNO R3 + TB6612FNG + Batería 7.4V LiPo + Motores DC.
 - Actualicé LÉAME.md con V1 (prueba) y V Final (ESP32 + 16 sensores + turbina)
+
+20 de octubre de 2026 
+- subir diagrama 
