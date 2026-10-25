@@ -2,7 +2,7 @@
 High-speed line follower robot using Arduino Nano, QTR-8A sensor array and TB6612FNG driver. Goal: fastest lap with PID control. Low-cost build under $50 for Nivel 4.
 
 Componentes:
-- Microcontrolador: ESP32 / STM32 (reemplaza Nano por velocidad)
+- Microcontrolador: ESP32 / STM32 
 - Sensores: Regleta 16 sensores IR (2x QTR-8A) - PCB personalizada
 - Motores: 2x Pololu N20 Micro Metal Gearmotor
 - Driver: TB6612FNG
