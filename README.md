@@ -41,14 +41,14 @@ void loop(){
 }
 
 
-19 de octubre de 2026 - Diagrama y Documentación**
+-**19 de octubre de 2026 - Diagrama y Documentación**
 - Creé diagrama de conexión completo en KiCad: Arduino UNO R3 + TB6612FNG + Batería 7.4V LiPo + Motores DC.
 - Actualicé LÉAME.md y página del proyecto.
 
 
 <img width="1600" height="867" alt="d83395de-fa15-4b91-86f0-ad65f1c6ef37" src="https://github.com/user-attachments/assets/46b5b4f7-f1d6-4248-92ea-a02ed9f4fb42" />
 
-24 de octubre de 2026
+-**24 de octubre de 2026
 -Diseñe la v2 del diagrama agregando 6 sensores y un swich
 -publique el video de como lo hice
 
