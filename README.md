@@ -11,13 +11,13 @@ Componentes:
 
 
 
-#### Bitácora
+Bitácora
 
-**17 de octubre de 2026 - Inicio del Proyecto**
+17 de octubre de 2026 - Inicio del Proyecto**
 - Creé el repositorio en GitHub.
 - Pensé en cómo iba a conectar el robot a los sensores, al Arduino y al motor.
 
-**18 de octubre de 2026 - Pruebas Iniciales**
+18 de octubre de 2026 - Pruebas Iniciales**
 - Conecté 2 sensores LDR a Arduino UNO (A0 y A1)
 - Probé lectura de umbral con indicadores LED en los pines 8 y 9.
 - Código de prueba funcionando: detecta línea con umbral < 500.
@@ -41,7 +41,7 @@ void loop(){
 }
 
 
-**19 de octubre de 2026 - Diagrama y Documentación**
+19 de octubre de 2026 - Diagrama y Documentación**
 - Creé diagrama de conexión completo en KiCad: Arduino UNO R3 + TB6612FNG + Batería 7.4V LiPo + Motores DC.
 - Actualicé LÉAME.md y página del proyecto.
 
