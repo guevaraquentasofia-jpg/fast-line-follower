@@ -52,15 +52,12 @@ void loop(){
 -Diseñe la v2 del diagrama agregando 6 sensores y un swich
 -publique el video de como lo hice
 
-<img width="1599" height="899" alt="ac260d0e-dc6a-477a-b5e9-326e4cbdf5f0" src="https://github.com/user-attachments/assets/2080e773-54a2-4a00-9498-a26b72936697" />
 
 -26 de octubre de 2026
 -Probe en wonwki el codigo y el diseño de el seguidor de linea
 aunque se encontro ciertos errores en el codigo como el error de bucle infinito y una pequeña confusión con los operadores logicos
 pero se arreglo
 
-<img width="1599" height="899" alt="56dc51f9-6c23-4122-b0e5-be63713acfc6" src="https://github.com/user-attachments/assets/5c360464-a4d1-4588-957a-0f3a334a4440" />
-
 -27 de octubre de 2026
-- Diseñe una parte de la v2 del diagrama unque falta terminar
-<img width="1599" height="899" alt="fc816a9e-a1cb-469b-92a0-cb0e0468cf39" src="https://github.com/user-attachments/assets/f0031c76-d52d-4d59-8273-c37de59c2dd2" />
+- Diseñe una parte de la v2 del diagrama aunque falta terminar
+
