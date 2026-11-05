@@ -21,9 +21,29 @@ Bitácora
 - Conecté 2 sensores LDR a Arduino UNO (A0 y A1)
 - Probé lectura de umbral con indicadores LED en los pines 8 y 9.
 - Código de prueba funcionando: detecta línea con umbral < 500.
+
+- - **19  de octubre de 2026:**
+- Creé diagrama de conexión completo en KiCad: Arduino UNO R3 + TB6612FNG + Batería 7.4V LiPo + Motores DC.
+- Actualicé LÉAME.md y página del proyecto.
+
+
+
+- 24 de octubre de 2026
+-Diseñe la v2 del diagrama agregando 6 sensores y un swich
+-publique el video de como lo hice
+
+
+-26 de octubre de 2026
+-Probe en wonwki el codigo y el diseño de el seguidor de linea
+aunque se encontro ciertos errores en el codigo como el error de bucle infinito y una pequeña confusión con los operadores logicos
+pero se arreglo
+
+-27 de octubre de 2026
+- Diseñe una parte de la v2 del diagrama aunque falta trminar
+
 - 
-Prueba 1 de código realizada de 2 sensores(con mis materiales actuales):
-Código - Prueba de Sensores
+
+- Código - Prueba1 de Sensores
 ```cpp
 int s1, s2;
 void setup(){
@@ -41,23 +61,5 @@ void loop(){
 }
 
 
-- **19  de octubre de 2026:**
-- Creé diagrama de conexión completo en KiCad: Arduino UNO R3 + TB6612FNG + Batería 7.4V LiPo + Motores DC.
-- Actualicé LÉAME.md y página del proyecto.
 
-
-<img width="1600" height="867" alt="d83395de-fa15-4b91-86f0-ad65f1c6ef37" src="https://github.com/user-attachments/assets/46b5b4f7-f1d6-4248-92ea-a02ed9f4fb42" />
-
-- 24 de octubre de 2026
--Diseñe la v2 del diagrama agregando 6 sensores y un swich
--publique el video de como lo hice
-
-
--26 de octubre de 2026
--Probe en wonwki el codigo y el diseño de el seguidor de linea
-aunque se encontro ciertos errores en el codigo como el error de bucle infinito y una pequeña confusión con los operadores logicos
-pero se arreglo
-
--27 de octubre de 2026
-- Diseñe una parte de la v2 del diagrama aunque falta terminar
 
