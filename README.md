@@ -1,7 +1,7 @@
 # Fast-line-follower
 High-speed line follower robot using Arduino Nano, QTR-8A sensor array and TB6612FNG driver. Goal: fastest lap with PID control. Low-cost build under $50 for Nivel 4.
 
-Componentes:
+Componentes de la v1 :
 - **Controlador:** Arduino Uno R3 
 - **Driver Motores:** TB6612FNG (STBY, PWMA, PWMB, A01/A02, B01/B02)
 - **Sensores:** 2x TCRT5000 infrarrojos (V1) -> 5x TCRT5000 (V2 - J3 a J7)
@@ -39,9 +39,11 @@ aunque se encontro ciertos errores en el codigo como el error de bucle infinito 
 pero se arreglo
 
 -27 de octubre de 2026
-- Diseñe una parte de la v2 del diagrama aunque falta trminar
+- Diseñe una parte de la v2 del diagrama agregando algunas mejoras como los 6 sensores y el stm32 blue pill y swich
+- además publique un video de como lo hice
 
-- 
+- 5 de noviembre de 20026
+- empece con la v3 del diagrama del seguidor de linea añadi algunas cosas perfeccionando el diseño como la turbina de succión, algunas resistencias , regulador      conmutado,mosfet ,pulsadores y leds 
 
 - Código - Prueba1 de Sensores
 ```cpp
