@@ -6,8 +6,9 @@ Componentes de la v1 :
 - **Driver Motores:** TB6612FNG (STBY, PWMA, PWMB, A01/A02, B01/B02)
 - **Sensores:** 2x TCRT5000 infrarrojos (V1) -> 5x TCRT5000 (V2 - J3 a J7)
 - **Motores:** 2x Motor DC (M2 Izquierdo, M4 Derecho)
-- **Alimentación:** Batería LiPo 7.4V (J2 +6V / J5 GND) + Regulador AMS1117 5V
-- **Control:** Switch SPST SW1 para encendido
+- **Alimentación:** Batería LiPo 7.4V 
+- **Control:** Switch 
+  
 Componentes de la v2 :
  - esp32 blue pill
  - driver tb6612fng
