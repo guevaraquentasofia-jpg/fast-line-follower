@@ -18,6 +18,25 @@ Componentes de la v2 :
  - bateria lipo
  - condensador
  - 6 sensores
+
+Componentes de la v3:
+ -1 microcontrolador STM32
+ -1 regleta de sensores infrarrojos 
+ -1 driver de motor TB6612FNG
+ - 2 motores tipo pololu n20
+ - una mini turbina  brushless (EDF)
+ -Regulador conmutado popolu D24V10F5
+ -Bateria lipo 7.4V
+ -llantas de silicona para n20
+ -fusibles de 2a
+ -conector jst
+ -diodo
+ -2 pulsadores
+ - un interruptor
+ - 2 leds
+ - resistencias
+
+ 
   
 
 
