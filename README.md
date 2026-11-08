@@ -73,7 +73,10 @@ pero se arreglo
 - además publique un video de como lo hice
 
 - 5 de noviembre de 20026
-- empece con la v3 del diagrama del seguidor de linea añadi algunas cosas perfeccionando el diseño como la turbina de succión, algunas resistencias , regulador      conmutado,mosfet ,pulsadores y leds 
+- empece con la v3 del diagrama del seguidor de linea añadi algunas cosas perfeccionando el diseño como la turbina de succión, algunas resistencias , regulador      conmutado,mosfet ,pulsadores y leds
+
+  7 de noviembre de 2026
+ -continue con el diagrama de la v3 del seguidor de linea use un stm32f103 como controlador, 16 fototransistores para los sensores, un multiplexor cd74hc4067 para leerlos y un tb6612 para los motores. tambien tiene modulo bluetooth y la parte de alimentacion con bateria lipo de 7.4V
 
 - Código - Prueba1 de Sensores
 ```cpp
